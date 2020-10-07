@@ -20,6 +20,6 @@ Step 7: A pipeline is put together to predict correct dog breed if a dog is dete
 
 Make sure that you downloaded the images used for this project.
 
-Dog images -> https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+Dog images -> https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip <br>
 Human images -> https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
